@@ -26,7 +26,7 @@ class Translation
     private $sessionValue;
 
     /**
-     * @ORM\column(name="session_time", type="int")
+     * @ORM\column(name="session_time", type="integer")
      * @Assert\NotNull()
      */
     private $sessionTime;
