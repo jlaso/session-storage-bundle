@@ -1,0 +1,24 @@
+{
+    "name": "jlaso/session-storage-bundle",
+    "version": "1.0",
+    "description": "Layer to create table for PDOSessionHandler",
+    "keywords": ["session", "symfony"],
+    "homepage": "https://github.com/jlaso/session-storage-bundle",
+    "type": "bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseluis Laso (aka Patrick)",
+            "email": "jlaso@joseluislaso.es",
+            "homepage": "http://www.patricklaso.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.7"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": { "JLaso\\SessionStorageBundle": "" }
+    },
+    "target-dir": "JLaso/SessionStorageBundle"
+}
