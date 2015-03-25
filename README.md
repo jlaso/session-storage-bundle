@@ -55,9 +55,9 @@ Configuration
 
 Usage
 -----
-first schema:update to init database with **session** table:
+execute schema:update to create into database the **session** table:
 
-    app/console doctrine:schema:update --force --env=dev
+    app/console doctrine:schema:update --force 
 
 
 
