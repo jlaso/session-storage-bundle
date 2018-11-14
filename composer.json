@@ -8,9 +8,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Joseluis Laso (aka Patrick)",
-            "email": "jlaso@joseluislaso.es",
-            "homepage": "http://www.patricklaso.com"
+            "name": "Joseluis Laso",
+            "homepage": "http://www.joseluislaso.es"
         }
     ],
     "require": {
